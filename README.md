@@ -103,13 +103,13 @@ After installation users can:
 ### Linux
 
 ```bash
-curl -fsSL https://example.com/install.sh | bash
+curl -fsSL https://<to-be-determined>.com/install.sh | bash
 ```
 
 ### Manual Build
 
 ```bash
-git clone https://github.com/example/local-ai-stack
+git clone https://github.com/RD2P/local-ai-stack.git
 cd local-ai-stack
 
 cargo build --release
